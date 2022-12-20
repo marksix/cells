@@ -5,7 +5,7 @@ session_start();
 
 $servername = "localhost";
 $username = "cms_eas_plus";
-$password = "7281213";
+$password = "password";
 $dbname = "cms_eas_plus";
 
 // Create connection
